@@ -1,0 +1,4 @@
+https://www.lojatiaraju.com.br/admin       status-code:200
+https://www.lojatiaraju.com.br/index.php       status-code:200
+https://www.lojatiaraju.com.br/info.php       status-code:200
+https://www.lojatiaraju.com.br/stats       status-code:200
